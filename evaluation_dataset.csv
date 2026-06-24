@@ -1,0 +1,11 @@
+Prompt,Response_A_Score,Response_B_Score,Winner
+What is gravity?,4.2,4.8,B
+Explain recursion,4.7,4.0,A
+What is an API?,4.5,4.3,A
+What is machine learning?,4.4,4.8,B
+Explain photosynthesis,4.1,4.7,B
+What is a database?,4.6,4.2,A
+Difference between list and tuple,4.8,4.1,A
+What is data annotation?,4.3,4.9,B
+Explain caching,4.5,4.4,A
+What is reinforcement learning?,4.0,4.8,B
