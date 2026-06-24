@@ -1,6 +1,19 @@
 
 # LLM Response Evaluation & Ranking System (RLHF Simulation)
 
+## Project Status
+
+Active Portfolio Project
+
+## Repository Contents
+
+- Evaluation Framework
+- Prompt Dataset
+- Sample Results
+- Evaluation Dataset
+- Evaluation Statistics
+- Insights Report
+
 ## Overview
 This project simulates a real-world AI training pipeline used in Large Language Model (LLM) alignment and Reinforcement Learning from Human Feedback (RLHF) workflows.
 
